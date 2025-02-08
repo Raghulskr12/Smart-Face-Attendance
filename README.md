@@ -4,10 +4,14 @@
 
 This is the first version of the AI-powered Face Recognition Attendance System. It captures faces in real-time, matches them with stored identities, and marks attendance automatically in an Excel file.
 
-## Features
-- Real-time face detection using OpenCV
-- Face recognition with high accuracy
-- Automatic attendance marking in an Excel file
+## Features  
+- ✅ Real-time face detection using OpenCV  
+- ✅ Face recognition with high accuracy  
+- ✅ Automatic attendance marking in an Excel file  
+
+## Important Points  
+- **Visual Studio C++ Build Tools**: Required for installing `dlib`, which is essential for face recognition.  
+- **Conda Environment**: The setup is done using a Conda environment with Python installed(Python 3.11.11).
 
 ## Installation & Setup
 
